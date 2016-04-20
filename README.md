@@ -1,3 +1,3 @@
 # rust
 
-a light of php mvc framework
+a light mvc framework
